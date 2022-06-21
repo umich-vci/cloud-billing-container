@@ -1,1 +1,6 @@
-flask
+apache-airflow[aws,azure,gcp]
+apache-beam[gcp,aws]
+azure-cosmos
+google-cloud-datastore
+azure-cosmosdb-table
+requests_oauthlib
